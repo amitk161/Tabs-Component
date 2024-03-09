@@ -1,2 +1,3 @@
 # Tabs-Component
-Created with CodeSandbox
+
+Created a tabs component that helps us to switch between different content. 
